@@ -6,7 +6,7 @@ function Header() {
       <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">
         <div class="container-fluid">
           <a class="text-xl text-white font-semibold" href="#">
-            Bytewise Memebers
+            Hall Of Open Source
           </a>
         </div>
       </div>
