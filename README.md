@@ -1,4 +1,8 @@
-# Hacktoberfest-22
+# Hall Of Open Source
+
+Contribute to Open Source with this repository and get listed on the the Hall of Fame below
+
+[View the Live Site](https://bytewise-fellows.netlify.app)
 
 ## Follow below instructions to contribute to this Repository
 
