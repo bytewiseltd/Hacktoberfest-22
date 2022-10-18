@@ -18,7 +18,7 @@ const members = [
     team: "Computer Science",
     city: "Islamabad",
     socialUrls: {
-      facebook: "https://www.facebook.com",
+      facebook: "https://www.facebook.com/profile.php?id=100069960193363",
       instagram: "https://intagram.com",
       linkedIn: "https://linkedin.com",
     },
