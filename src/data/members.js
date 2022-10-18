@@ -12,6 +12,18 @@ const members = [
       linkedIn: "https://linkedin.com/in/usmanniazi99",
     },
   }
+  {
+    img: `${imgPath}/AbdurRehman.jpeg`,
+    firstname: "Abdur",
+    lastname: "Rehman",
+    team: "Founder",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com",
+      instagram: "https://intagram.com",
+      linkedIn: "https://linkedin.com/in/abdur-rehman-ab0394247",
+    },
+  } 
 ];
 
 export default members;
