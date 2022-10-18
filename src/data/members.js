@@ -24,6 +24,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/adil-feroze-242a99253/",
     },
   },
+  {
+    img: `${imgPath}/Waheed.jpg`,
+    firstname: "Abdul",
+    lastname: "Waheed",
+    team: "Web Developer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/captainWaheed43",
+      instagram: "https://www.instagram.com/captain_waheed_",
+      linkedIn: " https://www.linkedin.com/in/abdul-waheed781/",
+    },
+  },
 ];
 
 export default members;
