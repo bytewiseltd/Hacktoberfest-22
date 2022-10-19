@@ -13,7 +13,19 @@ const members = [
     },
   },
   {
-    img: `${imgPath}/amama.jpg`,
+    img: `${imgPath}/graph.png`,
+    firstname: "Noor",
+    lastname: "Fatima",
+    team: "Cyber Security",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com",
+      instagram: "https://intagram.com",
+      linkedIn: "https://linkedin.com",
+    },
+  },
+  
+{    img: `${imgPath}/amama.jpg`,
     firstname: "Amama",
     lastname: "Fatima",
     team: "Founder",
@@ -75,3 +87,4 @@ const members = [
 ];
 
 export default members;
+
