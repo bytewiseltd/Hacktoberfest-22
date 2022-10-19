@@ -73,6 +73,18 @@ const members = [
     },
   },
   {
+    img: `${imgPath}/Waheed.jpg`,
+    firstname: "Abdul",
+    lastname: "Waheed",
+    team: "Web Developer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/captainWaheed43",
+      instagram: "https://www.instagram.com/captain_waheed_",
+      linkedIn: " https://www.linkedin.com/in/abdul-waheed781/",
+},
+},
+{
     img: `${imgPath}/haider.jpg`,
     firstname: "Haider",
     lastname: "Ali",
