@@ -1,9 +1,9 @@
 const imgPath = "/assets/members";
 const members = [
   {
-    img: `${imgPath}/usman.jpeg`,
-    firstname: "Usman",
-    lastname: "Khan",
+    img: `${imgPath}/rings.jpeg`,
+    firstname: "ring",
+    lastname: "abu",
     team: "Founder",
     city: "Islamabad",
     socialUrls: {
