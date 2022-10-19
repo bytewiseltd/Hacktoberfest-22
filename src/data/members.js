@@ -24,6 +24,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/samarali187/",
     },
   },
+  {
+    img: `${imgPath}/zubair.jpeg`,
+    firstname: "Zubair",
+    lastname: "Naeem",
+    team: "Flutter",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/profile.php?id=100011336683185",
+      instagram: "https://www.instagram.com/zubair____31/",
+      linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
+    },
+  },
 ];
 
 export default members;
