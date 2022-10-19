@@ -13,6 +13,18 @@ const members = [
     },
   },
   {
+    img: `${imgPath}/mahrukh.jpeg`,
+    firstname: "Mahrukh",
+    lastname: "Khan",
+    team: "Machine Lerning|Game development|Ducks",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/lynxmaho",
+      instagram: "https://www.instagram.com/taciturn.thing/?next=%2F",
+      linkedIn: "https://www.linkedin.com/in/mahrukh-khan-85a2711b3",
+    },
+  },
+{
     img: `${imgPath}/Adil.jpg`,
     firstname: "Adil",
     lastname: "Feroze",
@@ -24,6 +36,7 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/adil-feroze-242a99253/",
     },
   },
+
 ];
 
 export default members;
