@@ -36,6 +36,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/mahrukh-khan-85a2711b3",
     },
   },
+  {
+    img: `${imgPath}/Ahtisham.jpg`,
+    firstname: "Muhammad",
+    lastname: "Ahtisham",
+    team: "Data Engineering",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/profile.php?id=100011985731904",
+      instagram: "https://intagram.com/_ahtii/",
+      linkedIn: "www.linkedin.com/in/mu-ahtisham",
+    },
+  },
 {
     img: `${imgPath}/Adil.jpg`,
     firstname: "Adil",
