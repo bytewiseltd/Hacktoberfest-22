@@ -153,6 +153,30 @@ const members = [
       facebook: "https://www.facebook.com/haiderali",
       instagram: "https://www.instagram.com/haideralispeaks/",
       linkedIn: "https://www.linkedin.com/in/haideralispeaks/",
+},
+},
+  {
+    img: `${imgPath}/samar.jpeg`,
+    firstname: "Samar",
+    lastname: "Ali",
+    team: "Tech Lead",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/",
+      instagram: "https://www.instagram.com/samarali578/",
+      linkedIn: "https://www.linkedin.com/in/samarali187/",
+    },
+  },
+  {
+    img: `${imgPath}/zubair.jpeg`,
+    firstname: "Zubair",
+    lastname: "Naeem",
+    team: "Flutter",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/profile.php?id=100011336683185",
+      instagram: "https://www.instagram.com/zubair____31/",
+      linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
     },
   },
 ];
