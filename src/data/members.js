@@ -12,6 +12,18 @@ const members = [
       linkedIn: "https://linkedin.com/in/usmanniazi99",
     },
   },{
+    img: `${imgPath}/Muzzammil.jpg`,
+    firstname: "Muhammad",
+    lastname: "Muzzammil",
+    team: "Computer Science",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/haiderali",
+      instagram: "https://www.instagram.com/haideralispeaks/",
+      linkedIn: "https://www.linkedin.com/in/haideralispeaks/"
+     },
+     },
+     {
     img: `${imgPath}/UsmanWaris.jpeg`,
     firstname: "Usman",
     lastname: "Waris",
