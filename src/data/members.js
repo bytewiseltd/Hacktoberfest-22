@@ -60,6 +60,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/adil-feroze-242a99253/",
     },
   },
+  {
+    img: `${imgPath}/haider.jpg`,
+    firstname: "Haider",
+    lastname: "Ali",
+    team: "MLSA Beta Ambassador, GDSC Content-Lead",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/haiderali",
+      instagram: "https://www.instagram.com/haideralispeaks/",
+      linkedIn: "https://www.linkedin.com/in/haideralispeaks/",
+    },
+  },
 ];
 
 export default members;
