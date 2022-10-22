@@ -8,7 +8,7 @@ function Card({ member }) {
     <>
       <section className="w-64 bg-[#20354b] rounded-2xl px-8 py-6 mx-5 my-3 shadow-lg">
         <div className="flex items-center justify-between">
-          <span className="text-gray-400 text-sm">Bytewise Member</span>
+          <span className="text-gray-400 text-sm">Contributer</span>
         </div>
         <div className="mt-6 w-fit mx-auto">
           <img
