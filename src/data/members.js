@@ -72,6 +72,16 @@ const members = [
     },
   },
   {
+    img: `${imgPath}/daoud.jpg`,
+    firstname: "Daoud",
+    lastname: "Hussain",
+    team: "FrontEnd Developer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/nadan.daoud",
+      instagram: "https://www.instagram.com/daoud_huxxain/",
+      linkedIn: "https://www.linkedin.com/in/daoud-hussain/",
+    },
     img: `${imgPath}/AbdurRehman.jpeg`,
     firstname: "Abdur",
     lastname: "Rehman",
