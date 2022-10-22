@@ -7,7 +7,7 @@ function Cards() {
     <>
       <section
         style={{ fontFamily: "Montserrat" }}
-        className=" bg-[#071e34] flex font-medium items-center mx-auto justify-start p-10 flex-wrap"
+        className=" bg-[#071e34] flex font-medium items-center mx-auto justify-center p-10 flex-wrap"
       >
         {members.map((member, index) => {
           return <Card key={index} member={member} />;
