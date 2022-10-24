@@ -215,6 +215,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/",
     },
   },
+  {
+    img: `${imgPath}/UmarHassanMalik.png`,
+    firstname: "Umar Hassan",
+    lastname: "Malik",
+    team: "Cloud Engineer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/umarhassanmalik10",
+      instagram: "https://www.instagram.com/umar_hassan_malik/",
+      linkedIn: "https://www.linkedin.com/in/umar-hassan-malik-52b65919a/",
+    },
+  }
 ];
 
 export default members;
