@@ -227,6 +227,29 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/abuzariii/",
     },
   },
+{
+    img: `${imgPath}/UmarHassanMalik.png`,
+    firstname: "Umar Hassan",
+    lastname: "Malik",
+    team: "Cloud Engineer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/umarhassanmalik10",
+      instagram: "https://www.instagram.com/umar_hassan_malik/",
+      linkedIn: "https://www.linkedin.com/in/umar-hassan-malik-52b65919a/",
+    },
+  },
+    img: `${imgPath}/profile.jepg`,
+    firstname: "Waheed Ahmad",
+    lastname: "Khan",
+    team: "MERN Stack Developer",
+    city: "Peshawar",
+    socialUrls: {
+      facebook: "https://www.facebook.com/waheed.ahmad.370177",
+      instagram: "https://www.instagram.com/waheed_a_khan",
+      linkedIn: "https://www.linkedin.com/in/waheed-ahmad-khan-3570491ba/",
+    },
+  }
 ];
 
 export default members;
