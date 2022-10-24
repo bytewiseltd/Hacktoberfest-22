@@ -216,6 +216,30 @@ const members = [
     },
   },
   {
+    img: `${imgPath}/Abuzar.jpg`,
+    firstname: "Muhammad",
+    lastname: "Abuzar",
+    team: "Frontend Developer",
+    city: "Bahawalpur",
+    socialUrls: {
+      facebook: "https://www.facebook.com/abuzariiii/",
+      instagram: "https://www.instagram.com/abuzariii",
+      linkedIn: "https://www.linkedin.com/in/abuzariii/",
+    },
+  },
+{
+    img: `${imgPath}/UmarHassanMalik.png`,
+    firstname: "Umar Hassan",
+    lastname: "Malik",
+    team: "Cloud Engineer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/umarhassanmalik10",
+      instagram: "https://www.instagram.com/umar_hassan_malik/",
+      linkedIn: "https://www.linkedin.com/in/umar-hassan-malik-52b65919a/",
+    },
+  },
+    {
     img: `${imgPath}/profile.jpeg`,
     firstname: "Waheed Ahmad",
     lastname: "Khan",
@@ -227,6 +251,17 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/waheed-ahmad-khan-3570491ba/",
     },
   }
+  , {img: `${imgPath}/AZNA.jepg`,
+  firstname: "Azna",
+  lastname: "Ijaz",
+  team: "Front-end",
+  city: "Lahore",
+  socialUrls: {
+    //facebook: "https://www.facebook.com/waheed.ahmad.370177",
+    //instagram: "",
+    linkedIn: "https://www.linkedin.com/in/azna-ijaz-666210217/",
+  },
+}
 ];
 
 export default members;
