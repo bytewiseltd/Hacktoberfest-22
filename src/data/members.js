@@ -262,6 +262,20 @@ const members = [
     linkedIn: "https://www.linkedin.com/in/azna-ijaz-666210217/",
   },
 }
+
+
+, {img: `${imgPath}/madina.jpeg`,
+  firstname: "Madina",
+  lastname: "Khokhar",
+  team: "Front-end",
+  city: "Islamabad",
+  socialUrls: {
+    gmail: "madinakhokhar6@gmail.com",
+   
+    linkedIn: "linkedin.com/in/madina-khokhar-0a83b6247",
+  },
+}
+
 ];
 
 export default members;
