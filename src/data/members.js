@@ -216,6 +216,18 @@ const members = [
     },
   },
   {
+    img: `${imgPath}/Abuzar.jpg`,
+    firstname: "Muhammad",
+    lastname: "Abuzar",
+    team: "Frontend Developer",
+    city: "Bahawalpur",
+    socialUrls: {
+      facebook: "https://www.facebook.com/abuzariiii/",
+      instagram: "https://www.instagram.com/abuzariii",
+      linkedIn: "https://www.linkedin.com/in/abuzariii/",
+    },
+  },
+{
     img: `${imgPath}/UmarHassanMalik.png`,
     firstname: "Umar Hassan",
     lastname: "Malik",
