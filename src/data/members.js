@@ -243,7 +243,7 @@ const members = [
     img: `${imgPath}/profile.jpeg`,
     firstname: "Waheed Ahmad",
     lastname: "Khan",
-    team: "MERN Stack Developer",
+    team: "MERN Stack",
     city: "Peshawar",
     socialUrls: {
       facebook: "https://www.facebook.com/waheed.ahmad.370177",
