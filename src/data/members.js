@@ -238,7 +238,7 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/waheed-ahmad-khan-3570491ba/",
     },
   }
-  , {img: `${imgPath}/AZNA.jepg`,
+  , {img: `${imgPath}/AZNA.jpeg`,
   firstname: "Azna",
   lastname: "Ijaz",
   team: "Front-end",
