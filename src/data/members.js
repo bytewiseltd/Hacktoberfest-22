@@ -239,7 +239,7 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/umar-hassan-malik-52b65919a/",
     },
   },
-    img: `${imgPath}/profile.jepg`,
+    {img: `${imgPath}/profile.jepg`,
     firstname: "Waheed Ahmad",
     lastname: "Khan",
     team: "MERN Stack Developer",
@@ -250,6 +250,17 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/waheed-ahmad-khan-3570491ba/",
     },
   }
+  , {img: `${imgPath}/AZNA.jepg`,
+  firstname: "Azna",
+  lastname: "Ijaz",
+  team: "Front-end",
+  city: "Lahore",
+  socialUrls: {
+    //facebook: "https://www.facebook.com/waheed.ahmad.370177",
+    //instagram: "",
+    linkedIn: "https://www.linkedin.com/in/azna-ijaz-666210217/",
+  },
+}
 ];
 
 export default members;
