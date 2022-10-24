@@ -215,6 +215,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/",
     },
   },
+  {
+    img: `${imgPath}/kk.jpg`,
+    firstname: "Khadija",
+    lastname: "Bibi",
+    team: "Flutter Developer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/",
+      instagram: "https://www.instagram.com/sub99way1122",
+      linkedIn: "https://www.linkedin.com/in/khadija-bibi-730326248",
+    },
+  },
 ];
 
 export default members;
