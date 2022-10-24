@@ -241,7 +241,7 @@ const members = [
   },
     {
     img: `${imgPath}/profile.jpeg`,
-    firstname: "Waheed A",
+    firstname: "Waheed Ahmad",
     lastname: "Khan",
     team: "MERN Stack Developer",
     city: "Peshawar",
