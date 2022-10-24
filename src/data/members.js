@@ -215,6 +215,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/",
     },
   },
+  {
+    img: `${imgPath}/Abuzar.jpg`,
+    firstname: "Muhammad",
+    lastname: "Abuzar",
+    team: "Frontend Developer",
+    city: "Bahawalpur",
+    socialUrls: {
+      facebook: "https://www.facebook.com/abuzariiii/",
+      instagram: "https://www.instagram.com/abuzariii",
+      linkedIn: "https://www.linkedin.com/in/abuzariii/",
+    },
+  },
 ];
 
 export default members;
