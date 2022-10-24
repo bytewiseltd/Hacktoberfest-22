@@ -215,6 +215,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/",
     },
   },
+  {
+    img: `${imgPath}/avatar.jpg`,
+    firstname: "Mira",
+    lastname: "Malik",
+    team: "Cyber Security",
+    city: "Lahore",
+    socialUrls: {
+      facebook: "https://www.facebook.com/",
+      instagram: "https://www.instagram.com/",
+      linkedIn: "https://www.linkedin.com/",
+    },
+  },
 ];
 
 export default members;
