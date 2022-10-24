@@ -239,7 +239,8 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/umar-hassan-malik-52b65919a/",
     },
   },
-    {img: `${imgPath}/profile.jepg`,
+    {
+    img: `${imgPath}/profile.jpeg`,
     firstname: "Waheed Ahmad",
     lastname: "Khan",
     team: "MERN Stack Developer",
