@@ -43,7 +43,52 @@ const members = [{
             facebook: "https://www.facebook.com/MUAZ787",
             instagram: "https://intagram.com/muaz_787",
             linkedIn: "https://linkedin.com/in/muaz-ahmad-917184239/",
-
+  },{
+    img: `${imgPath}/Muzzammil.jpg`,
+    firstname: "Muhammad",
+    lastname: "Muzzammil",
+    team: "Computer Science",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/haiderali",
+      instagram: "https://www.instagram.com/haideralispeaks/",
+      linkedIn: "https://www.linkedin.com/in/haideralispeaks/"
+     },
+     },
+     {
+    img: `${imgPath}/UsmanWaris.jpeg`,
+    firstname: "Usman",
+    lastname: "Waris",
+    team: "Computer Science",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/usman.waris.127",
+      instagram: "https://intagram.com/u.s.m.a.n__waris",
+      linkedIn: "https://www.linkedin.com/in/usman-waris-46a77b1b5/",
+    },
+},
+{
+  img: `${imgPath}/Hassan.jpeg`,
+  firstname: "Muhammad",
+  lastname: "Hassan",
+  team: "CLoud Data Engineer",
+  city: "Islamabad",
+  socialUrls: {
+    facebook: "https://www.facebook.com",
+    instagram: "https://intagram.com",
+    linkedIn: "https://linkedin.com",
+  },
+},
+,{
+    img: `${imgPath}/muaz.jpg`,
+    firstname: "Muaz",
+    lastname: "Ahmad",
+    team: "Cyber Security",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/MUAZ787",
+      instagram: "https://intagram.com/muaz_787",
+      linkedIn: "https://linkedin.com/in/muaz-ahmad-917184239/",
         },
     },
     {
@@ -213,6 +258,19 @@ const members = [{
             linkedIn: "https://www.linkedin.com/in/kaneez-ayesha-8b1b16208/",
         },
     },
+  },
+  {
+    img: `${imgPath}/MubashirAltaf.jpeg`,
+    firstname: "Mubashir",
+    lastname: "Altaf",
+    team: "Data",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/mub.ashir.9421",
+      instagram: "https://www.instagram.com/_mubashir_altaf_/",
+      linkedIn: "https://www.linkedin.com/in/mubashir-altaf-416021201",
+    },
+  },
 ];
 
 export default members;
