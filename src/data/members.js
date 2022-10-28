@@ -486,6 +486,19 @@ const members = [{
     instagram: "https://www.instagram.com",
     linkedIn: "linkedin.com/in/madina-khokhar-0a83b6247",
   },
+},
+
+{
+  img: `${imgPath}/hamza.jpg`,
+  firstname: "Hamza",
+  lastname: "Shabbir",
+  team: "AWS Backend",
+  city: "Islamabad",
+  socialUrls: {
+    facebook: "https://www.facebook.com/profile.php?id=100004774547635",
+    instagram: "https://intagram.com",
+    linkedIn: "https://www.linkedin.com/in/hamzashabbir1",
+  },
 }
 
 ];
