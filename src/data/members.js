@@ -1,7 +1,7 @@
 const imgPath = "/assets/members";
 const members = [
   {
-    img: `${imgPath}/Zain Ali Shah.jpg`,
+    img: `${imgPath}/Zain.jpg`,
     firstname: "Zain Ali",
     lastname: "Shah",
     team: "Computer Engineer",
