@@ -214,6 +214,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
     },
   },
+  {
+    img: `${imgPath}/MubashirAltaf.jpeg`,
+    firstname: "Mubashir",
+    lastname: "Altaf",
+    team: "Data",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/mub.ashir.9421",
+      instagram: "https://www.instagram.com/_mubashir_altaf_/",
+      linkedIn: "https://www.linkedin.com/in/mubashir-altaf-416021201",
+    },
+  },
 ];
 
 export default members;
