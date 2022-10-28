@@ -486,7 +486,20 @@ const members = [{
     instagram: "https://www.instagram.com",
     linkedIn: "linkedin.com/in/madina-khokhar-0a83b6247",
   },
-}
+},
+
+{
+    img: `${imgPath}/Zubi.jpg`,
+    firstname: "Muhammad",
+    lastname: "Zubair",
+    team: "Frontend Developer",
+    city: "Rawalpindi",
+    socialUrls: {
+      facebook: "https://www.facebook.com/zubairqureshi.200",
+      instagram: "https://www.instagram.com/zubihyper/",
+      linkedIn: "https://www.linkedin.com/in/mzubair21/",
+    },
+  },
 
 ];
 
