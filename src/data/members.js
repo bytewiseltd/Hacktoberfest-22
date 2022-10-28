@@ -33,8 +33,21 @@ const members = [
       facebook: "https://www.facebook.com/usman.waris.127",
       instagram: "https://intagram.com/u.s.m.a.n__waris",
       linkedIn: "https://www.linkedin.com/in/usman-waris-46a77b1b5/",
+    },
 },
-},{
+{
+  img: `${imgPath}/Hassan.jpeg`,
+  firstname: "Muhammad",
+  lastname: "Hassan",
+  team: "CLoud Data Engineer",
+  city: "Islamabad",
+  socialUrls: {
+    facebook: "https://www.facebook.com",
+    instagram: "https://intagram.com",
+    linkedIn: "https://linkedin.com",
+  },
+},
+,{
     img: `${imgPath}/muaz.jpg`,
     firstname: "Muaz",
     lastname: "Ahmad",
