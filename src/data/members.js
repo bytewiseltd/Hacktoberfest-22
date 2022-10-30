@@ -500,7 +500,8 @@ const members = [{
     instagram: "https://intagram.com",
     linkedIn: "https://www.linkedin.com/in/hamzashabbir1",
   },
-}
+},
+{
 
     img: `${imgPath}/Zubi.jpg`,
     firstname: "Muhammad",
@@ -512,6 +513,8 @@ const members = [{
       instagram: "https://www.instagram.com/zubihyper/",
       linkedIn: "https://www.linkedin.com/in/mzubair21/",
     },
+},
+    {
     img: `${imgPath}/obaid.jpg`,
     firstname: "Obaid",
     lastname: "Ahmed Khan",
