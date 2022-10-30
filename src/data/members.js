@@ -513,6 +513,17 @@ const members = [{
       linkedIn: "https://www.linkedin.com/in/mzubair21/",
     },
   },
+    img: `${imgPath}/Zubi.jpg`,
+    firstname: "Obaid",
+    lastname: "Ahmed Khan",
+    team: "UI/UX Designer",
+    city: "Rawalpindi",
+    socialUrls: {
+      facebook: "https://www.facebook.com/zubairqureshi.200",
+      instagram: "https://www.instagram.com/obaid.ahmed.khan/",
+      linkedIn: "https://web.facebook.com/obaid.ahmedkhan.37/",
+    },
+  },
 
 
 ];
