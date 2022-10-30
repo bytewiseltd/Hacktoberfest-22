@@ -10,7 +10,8 @@ const members = [{
                 instagram: "https://intagram.com/_usmanniazi",
                 linkedIn: "https://linkedin.com/in/usmanniazi99",
             },
-    }, {
+    },
+     {
             img: `${imgPath}/Muzzammil.jpg`,
             firstname: "Muhammad",
             lastname: "Muzzammil",
@@ -21,7 +22,7 @@ const members = [{
                 instagram: "https://www.instagram.com/haideralispeaks/",
                 linkedIn: "https://www.linkedin.com/in/haideralispeaks/"
             },
-    },
+        },
         {
             img: `${imgPath}/UsmanWaris.jpeg`,
             firstname: "Usman",
@@ -33,7 +34,7 @@ const members = [{
                 instagram: "https://intagram.com/u.s.m.a.n__waris",
                 linkedIn: "https://www.linkedin.com/in/usman-waris-46a77b1b5/",
             },
-    },
+        },
         {
             img: `${imgPath}/muaz.jpg`,
             firstname: "Muaz",
@@ -45,7 +46,7 @@ const members = [{
                 instagram: "https://intagram.com/muaz_787",
                 linkedIn: "https://linkedin.com/in/muaz-ahmad-917184239/",
             },
-  },
+    },
     {
         img: `${imgPath}/Hassan.jpeg`,
         firstname: "Muhammad",
@@ -57,18 +58,7 @@ const members = [{
             instagram: "https://intagram.com",
             linkedIn: "https://linkedin.com",
         },
-    }, {
-        img: `${imgPath}/muaz.jpg`,
-        firstname: "Muaz",
-        lastname: "Ahmad",
-        team: "Cyber Security",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/MUAZ787",
-            instagram: "https://intagram.com/muaz_787",
-            linkedIn: "https://linkedin.com/in/muaz-ahmad-917184239/",
-        },
-    },
+    }, 
 
     {
         img: `${imgPath}/amama.jpg`,
@@ -81,7 +71,8 @@ const members = [{
             instagram: "https://intagram.com/_usmanniazi",
             linkedIn: "https://linkedin.com/in/usmanniazi99",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/daoud.jpg`,
         firstname: "Daoud",
         lastname: "Hussain",
@@ -92,7 +83,8 @@ const members = [{
             instagram: "https://www.instagram.com/daoud_huxxain/",
             linkedIn: "https://www.linkedin.com/in/daoud-hussain/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/todoroki.png`,
         firstname: "Shadow",
         lastname: "Monarch",
@@ -103,7 +95,8 @@ const members = [{
             instagram: "https://intagram.com",
             linkedIn: "https://www.linkedin.com/in/muhammad-i-b89a47136/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/mahrukh.jpeg`,
         firstname: "Mahrukh",
         lastname: "Khan",
@@ -114,7 +107,8 @@ const members = [{
             instagram: "https://www.instagram.com/taciturn.thing/?next=%2F",
             linkedIn: "https://www.linkedin.com/in/mahrukh-khan-85a2711b3",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/Adil.jpg`,
         firstname: "Adil",
         lastname: "Feroze",
@@ -125,18 +119,8 @@ const members = [{
             instagram: "https://www.instagram.com/adil_feroze/",
             linkedIn: "https://www.linkedin.com/in/adil-feroze-242a99253/",
         },
-    }, {
-        img: `${imgPath}/haider.jpg`,
-        firstname: "Haider",
-        lastname: "Ali",
-        team: "MLSA Beta Ambassador, GDSC Content-Lead",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/haiderali",
-            instagram: "https://www.instagram.com/haideralispeaks/",
-            linkedIn: "https://www.linkedin.com/in/haideralispeaks/",
-        },
-    }, {
+    },  
+    {
         img: `${imgPath}/zubair.jpeg`,
         firstname: "Zubair",
         lastname: "Naeem",
@@ -147,7 +131,8 @@ const members = [{
             instagram: "https://www.instagram.com/zubair____31/",
             linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/KaneezAyesha.jpeg`,
         firstname: "Kaneez",
         lastname: "Ayesha",
@@ -158,7 +143,8 @@ const members = [{
             instagram: "https://intagram.com",
             linkedIn: "https://www.linkedin.com/in/kaneez-ayesha-8b1b16208/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/graph.png`,
         firstname: "Noor",
         lastname: "Fatima",
@@ -172,28 +158,6 @@ const members = [{
     },
 
     {
-        img: `${imgPath}/amama.jpg`,
-        firstname: "Amama",
-        lastname: "Fatima",
-        team: "Founder",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/usmanniazi99",
-            instagram: "https://intagram.com/_usmanniazi",
-            linkedIn: "https://linkedin.com/in/usmanniazi99",
-        },
-    }, {
-        img: `${imgPath}/daoud.jpg`,
-        firstname: "Daoud",
-        lastname: "Hussain",
-        team: "FrontEnd Developer",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/nadan.daoud",
-            instagram: "https://www.instagram.com/daoud_huxxain/",
-            linkedIn: "https://www.linkedin.com/in/daoud-hussain/",
-        },
-    }, {
 
         img: `${imgPath}/AbdurRehman.jpg`,
         firstname: "Abdur",
@@ -205,7 +169,8 @@ const members = [{
             instagram: "https://intagram.com",
             linkedIn: "https://linkedin.com/in/abdur-rehman-ab0394247",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/abubakarsattar.jpg`,
         firstname: "Abubakar",
         lastname: "Sattar",
@@ -216,7 +181,8 @@ const members = [{
             instagram: "https://intagram.com/",
             linkedIn: "https://linkedin.com/in/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/todoroki.png`,
         firstname: "Shadow",
         lastname: "Monarch",
@@ -227,7 +193,8 @@ const members = [{
             instagram: "https://intagram.com",
             linkedIn: "https://www.linkedin.com/in/muhammad-i-b89a47136/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/Ahtisham.jpeg`,
         firstname: "Muhammad",
         lastname: "Ahtisham",
@@ -238,7 +205,8 @@ const members = [{
             instagram: "https://intagram.com/_ahtii/",
             linkedIn: "www.linkedin.com/in/mu-ahtisham",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/Waheed.jpg`,
         firstname: "Abdul",
         lastname: "Waheed",
@@ -249,7 +217,8 @@ const members = [{
             instagram: "https://www.instagram.com/captain_waheed_",
             linkedIn: " https://www.linkedin.com/in/abdul-waheed781/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/haider.jpg`,
         firstname: "Haider",
         lastname: "Ali",
@@ -260,7 +229,8 @@ const members = [{
             instagram: "https://www.instagram.com/haideralispeaks/",
             linkedIn: "https://www.linkedin.com/in/haideralispeaks/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/samar.jpeg`,
         firstname: "Samar",
         lastname: "Ali",
@@ -271,7 +241,8 @@ const members = [{
             instagram: "https://www.instagram.com/samarali578/",
             linkedIn: "https://www.linkedin.com/in/samarali187/",
         },
-    }, {
+     },
+     {
         img: `${imgPath}/MubashirAltaf.jpeg`,
         firstname: "Mubashir",
         lastname: "Altaf",
@@ -282,7 +253,8 @@ const members = [{
             instagram: "https://www.instagram.com/_mubashir_altaf_/",
             linkedIn: "https://www.linkedin.com/in/mubashir-altaf-416021201",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/avatar.jpg`,
         firstname: "Swaira",
         lastname: "Rufqan",
@@ -293,7 +265,8 @@ const members = [{
             instagram: "https://www.instagram.com/",
             linkedIn: "https://www.linkedin.com/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/Abuzar.jpg`,
         firstname: "Muhammad",
         lastname: "Abuzar",
@@ -304,7 +277,8 @@ const members = [{
             instagram: "https://www.instagram.com/abuzariii",
             linkedIn: "https://www.linkedin.com/in/abuzariii/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/UmarHassanMalik.png`,
         firstname: "Umar Hassan",
         lastname: "Malik",
@@ -315,7 +289,8 @@ const members = [{
             instagram: "https://www.instagram.com/umar_hassan_malik/",
             linkedIn: "https://www.linkedin.com/in/umar-hassan-malik-52b65919a/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/profile.jpeg`,
         firstname: "Waheed Ahmad",
         lastname: "Khan",
@@ -326,7 +301,8 @@ const members = [{
             instagram: "https://www.instagram.com/waheed_a_khan",
             linkedIn: "https://www.linkedin.com/in/waheed-ahmad-khan-3570491ba/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/AZNA.jpeg`,
         firstname: "Azna",
         lastname: "Ijaz",
@@ -337,7 +313,8 @@ const members = [{
             instagram: "",
             linkedIn: "https://www.linkedin.com/in/azna-ijaz-666210217/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/madina.jpeg`,
         firstname: "Madina",
         lastname: "Khokhar",
@@ -362,7 +339,8 @@ const members = [{
             instagram: "https://intagram.com",
             linkedIn: "https://www.linkedin.com/in/hamzashabbir1",
         },
-    }, {
+    }, 
+    {
 
         img: `${imgPath}/Zubi.jpg`,
         firstname: "Muhammad",
@@ -374,7 +352,8 @@ const members = [{
             instagram: "https://www.instagram.com/zubihyper/",
             linkedIn: "https://www.linkedin.com/in/mzubair21/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/obaid.jpg`,
         firstname: "Obaid",
         lastname: "Ahmed Khan",
