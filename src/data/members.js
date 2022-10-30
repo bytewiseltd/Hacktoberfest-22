@@ -33,7 +33,8 @@ const members = [{
             instagram: "https://intagram.com/u.s.m.a.n__waris",
             linkedIn: "https://www.linkedin.com/in/usman-waris-46a77b1b5/",
         },
-    }, {
+    }, 
+    {
         img: `${imgPath}/muaz.jpg`,
         firstname: "Muaz",
         lastname: "Ahmad",
@@ -500,8 +501,9 @@ const members = [{
     instagram: "https://intagram.com",
     linkedIn: "https://www.linkedin.com/in/hamzashabbir1",
   },
-}
+},
 
+{
     img: `${imgPath}/Zubi.jpg`,
     firstname: "Muhammad",
     lastname: "Zubair",
@@ -511,7 +513,11 @@ const members = [{
       facebook: "https://www.facebook.com/zubairqureshi.200",
       instagram: "https://www.instagram.com/zubihyper/",
       linkedIn: "https://www.linkedin.com/in/mzubair21/",
-    },
+   },
+},
+
+{
+                 
     img: `${imgPath}/obaid.jpg`,
     firstname: "Obaid",
     lastname: "Ahmed Khan",
@@ -522,7 +528,7 @@ const members = [{
       instagram: "https://www.instagram.com/obaid.ahmed.khan/",
       linkedIn: "https://web.facebook.com/obaid.ahmedkhan.37/",
     },
-  },
+},
 
 
 ];
