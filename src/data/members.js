@@ -489,6 +489,19 @@ const members = [{
 },
 
 {
+
+  img: `${imgPath}/hamza.jpg`,
+  firstname: "Hamza",
+  lastname: "Shabbir",
+  team: "AWS Backend",
+  city: "Islamabad",
+  socialUrls: {
+    facebook: "https://www.facebook.com/profile.php?id=100004774547635",
+    instagram: "https://intagram.com",
+    linkedIn: "https://www.linkedin.com/in/hamzashabbir1",
+  },
+}
+
     img: `${imgPath}/Zubi.jpg`,
     firstname: "Muhammad",
     lastname: "Zubair",
@@ -500,6 +513,7 @@ const members = [{
       linkedIn: "https://www.linkedin.com/in/mzubair21/",
     },
   },
+
 
 ];
 
