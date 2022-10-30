@@ -71,18 +71,6 @@ const members = [{
             linkedIn: "https://linkedin.com/in/muaz-ahmad-917184239/",
         },
     },
-    {
-        img: `${imgPath}/graph.png`,
-        firstname: "Noor",
-        lastname: "Fatima",
-        team: "Cyber Security",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com",
-            instagram: "https://intagram.com",
-            linkedIn: "https://linkedin.com",
-        },
-    },
 
     {
         img: `${imgPath}/amama.jpg`,
@@ -106,28 +94,6 @@ const members = [{
             facebook: "https://www.facebook.com/nadan.daoud",
             instagram: "https://www.instagram.com/daoud_huxxain/",
             linkedIn: "https://www.linkedin.com/in/daoud-hussain/",
-        },
-        img: `${imgPath}/AbdurRehman.jpg`,
-        firstname: "Abdur",
-        lastname: "Rehman",
-        team: "Founder",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com",
-            instagram: "https://intagram.com",
-            linkedIn: "https://linkedin.com/in/abdur-rehman-ab0394247",
-        },
-    },
-    {
-        img: `${imgPath}/abubakarsattar.jpg`,
-        firstname: "Abubakar",
-        lastname: "Sattar",
-        team: "Co-founder",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/",
-            instagram: "https://intagram.com/",
-            linkedIn: "https://linkedin.com/in/",
         },
     },
     {
@@ -155,18 +121,6 @@ const members = [{
         },
     },
     {
-        img: `${imgPath}/Ahtisham.jpg`,
-        firstname: "Muhammad",
-        lastname: "Ahtisham",
-        team: "Data Engineering",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/profile.php?id=100011985731904",
-            instagram: "https://intagram.com/_ahtii/",
-            linkedIn: "www.linkedin.com/in/mu-ahtisham",
-        },
-    },
-    {
         img: `${imgPath}/Adil.jpg`,
         firstname: "Adil",
         lastname: "Feroze",
@@ -179,18 +133,6 @@ const members = [{
         },
     },
     {
-        img: `${imgPath}/Waheed.jpg`,
-        firstname: "Abdul",
-        lastname: "Waheed",
-        team: "Web Developer",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/captainWaheed43",
-            instagram: "https://www.instagram.com/captain_waheed_",
-            linkedIn: " https://www.linkedin.com/in/abdul-waheed781/",
-        },
-    },
-    {
         img: `${imgPath}/haider.jpg`,
         firstname: "Haider",
         lastname: "Ali",
@@ -200,18 +142,6 @@ const members = [{
             facebook: "https://www.facebook.com/haiderali",
             instagram: "https://www.instagram.com/haideralispeaks/",
             linkedIn: "https://www.linkedin.com/in/haideralispeaks/",
-        },
-    },
-    {
-        img: `${imgPath}/samar.jpeg`,
-        firstname: "Samar",
-        lastname: "Ali",
-        team: "Tech Lead",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/",
-            instagram: "https://www.instagram.com/samarali578/",
-            linkedIn: "https://www.linkedin.com/in/samarali187/",
         },
     },
     {
@@ -310,18 +240,6 @@ const members = [{
         },
   },
     {
-        img: `${imgPath}/mahrukh.jpeg`,
-        firstname: "Mahrukh",
-        lastname: "Khan",
-        team: "Machine Lerning|Game development|Ducks",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/lynxmaho",
-            instagram: "https://www.instagram.com/taciturn.thing/?next=%2F",
-            linkedIn: "https://www.linkedin.com/in/mahrukh-khan-85a2711b3",
-        },
-  },
-    {
         img: `${imgPath}/Ahtisham.jpeg`,
         firstname: "Muhammad",
         lastname: "Ahtisham",
@@ -331,18 +249,6 @@ const members = [{
             facebook: "https://www.facebook.com/profile.php?id=100011985731904",
             instagram: "https://intagram.com/_ahtii/",
             linkedIn: "www.linkedin.com/in/mu-ahtisham",
-        },
-  },
-    {
-        img: `${imgPath}/Adil.jpg`,
-        firstname: "Adil",
-        lastname: "Feroze",
-        team: "NASA Hackers",
-        city: "Islamabad",
-        socialUrls: {
-            facebook: "https://www.facebook.com/prince.adil.56679",
-            instagram: "https://www.instagram.com/adil_feroze/",
-            linkedIn: "https://www.linkedin.com/in/adil-feroze-242a99253/",
         },
   },
     {
