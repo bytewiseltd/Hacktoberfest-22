@@ -315,6 +315,17 @@ const members = [{
         },
     },
 
+, {img: `${imgPath}/hajra.jpeg`,
+  firstname: "Hajra",
+  lastname: "Afzal",
+  team: "Front-end",
+  city: "Lahore",
+  socialUrls: {
+    
+    linkedIn: "https://www.linkedin.com/in/hajra-afzal/",
+  },
+}
+
     {
 
         img: `${imgPath}/hamza.jpg`,
