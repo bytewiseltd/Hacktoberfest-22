@@ -402,6 +402,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/khadija-bibi-730326248",
     },
   },
+{
+    img: `${imgPath}/avatar.jpg`,
+    firstname: "Pramod",
+    lastname: "Bobade",
+    team: "Devops",
+    city: "Delhi",
+    socialUrls: {
+      facebook: "https://www.facebook.com",
+      instagram: "https://intagram.com",
+      linkedIn: "https://linkedin.com",
+    },
+  },
 ];
 
 
