@@ -403,11 +403,36 @@ const members = [
     },
   },
 {
+    img: `${imgPath}/UmarHassanMalik.png`,
+    firstname: "Umar Hassan",
+    lastname: "Malik",
+    team: "Cloud Engineer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/umarhassanmalik10",
+      instagram: "https://www.instagram.com/umar_hassan_malik/",
+      linkedIn: "https://www.linkedin.com/in/umar-hassan-malik-52b65919a/",
+    },
+  },
+    {
+    img: `${imgPath}/profile.jpeg`,
+    firstname: "Waheed Ahmad",
+    lastname: "Khan",
+    team: "MERN Stack",
+    city: "Peshawar",
+     socialUrls: {
+      facebook: "https://www.facebook.com/",
+      instagram: "https://www.instagram.com",
+      linkedIn: "https://www.linkedin.com",
+             },
+       },
+    {
     img: `${imgPath}/avatar.jpg`,
     firstname: "Pramod",
     lastname: "Bobade",
     team: "Devops",
     city: "Delhi",
+
     socialUrls: {
       facebook: "https://www.facebook.com",
       instagram: "https://intagram.com",
