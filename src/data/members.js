@@ -315,7 +315,8 @@ const members = [{
         },
     },
 
-, {img: `${imgPath}/hajra.jpeg`,
+ {
+ img: `${imgPath}/hajra.jpeg`,
   firstname: "Hajra",
   lastname: "Afzal",
   team: "Front-end",
@@ -324,7 +325,7 @@ const members = [{
     
     linkedIn: "https://www.linkedin.com/in/hajra-afzal/",
   },
-}
+},
 
     {
 
@@ -364,8 +365,18 @@ const members = [{
             linkedIn: "https://web.facebook.com/obaid.ahmedkhan.37/",
         },
     },
-
-
+  {
+    img: `${imgPath}/kk.jpg`,
+    firstname: "Khadija",
+    lastname: "Bibi",
+    team: "Flutter Developer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/",
+      instagram: "https://www.instagram.com/sub99way1122",
+      linkedIn: "https://www.linkedin.com/in/khadija-bibi-730326248",
+    },
+  },
 ];
 
 
