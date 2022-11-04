@@ -6,14 +6,14 @@ import { AiFillInstagram } from "react-icons/ai";
 function Card({ member }) {
   return (
     <>
-      <section className="w-64 bg-[#20354b] rounded-2xl px-8 py-6 mx-5 my-3 shadow-lg">
-        <div className="flex items-center justify-between">
-          <span className="text-gray-400 text-sm">Bytewise Member</span>
+      <section className="w-64 h-[500px] bg-[#20354b] rounded-2xl px-8 py-6 mx-5 my-3 shadow-lg">
+        <div className="flex items-center justify-center">
+          <span className="text-gray-400 text-sm">Contributer</span>
         </div>
         <div className="mt-6 w-fit mx-auto">
           <img
             src={member.img}
-            className="rounded-full w-28 "
+            className="rounded-full w-[100px] h-[100px]"
             alt="profile picture"
           />
         </div>
@@ -22,9 +22,7 @@ function Card({ member }) {
             {member.firstname} <br /> {member.lastname}
           </h2>
         </div>
-        <p className="text-emerald-400 font-semibold mt-2.5">
-          {member.team} Fellow
-        </p>
+        <p className="text-emerald-400 font-semibold mt-2.5">{member.team}</p>
 
         <div className="flex justify-start space-x-4 mt-5">
           <div className="bg-white p-1 rounded-full">
