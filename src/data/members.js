@@ -438,19 +438,6 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/kamranhccp",
              },
        },
-    {
-    img: `${imgPath}/avatar.jpg`,
-    firstname: "Pramod",
-    lastname: "Bobade",
-    team: "Devops",
-    city: "Delhi",
-
-    socialUrls: {
-      facebook: "https://www.facebook.com",
-      instagram: "https://intagram.com",
-      linkedIn: "https://linkedin.com",
-    },
-  },
 ];
 
 
