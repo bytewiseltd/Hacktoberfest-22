@@ -426,19 +426,18 @@ const members = [
       linkedIn: "https://www.linkedin.com",
              },
        },
-    {
-    img: `${imgPath}/avatar.jpg`,
-    firstname: "Pramod",
-    lastname: "Bobade",
-    team: "Devops",
-    city: "Delhi",
-
-    socialUrls: {
-      facebook: "https://www.facebook.com",
-      instagram: "https://intagram.com",
-      linkedIn: "https://linkedin.com",
-    },
-  },
+  {
+    img: `${imgPath}/KamranMansoor.jpg`,
+    firstname: "Kamran",
+    lastname: "Mansoor",
+    team: "Full Stack Flutter",
+    city: "Islamabad",
+     socialUrls: {
+      facebook: "https://www.facebook.com/kamranhccp",
+      instagram: "https://www.instagram.com/kamran_hccp",
+      linkedIn: "https://www.linkedin.com/in/kamranhccp",
+             },
+       },
 ];
 
 
